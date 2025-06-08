@@ -1,0 +1,1911 @@
+fileFormatVersion: 2
+guid: e37a8f75c72fc284e93c647aa3abeac0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4904410110749034290
+    second: Skeleton_Swordman2_0
+  - first:
+      213: -3775981866466053185
+    second: Skeleton_Swordman2_1
+  - first:
+      213: 5076214227484703960
+    second: Skeleton_Swordman2_2
+  - first:
+      213: 2404270242694520303
+    second: Skeleton_Swordman2_3
+  - first:
+      213: -414153239201574074
+    second: Skeleton_Swordman2_4
+  - first:
+      213: 7449504698342688313
+    second: Skeleton_Swordman2_5
+  - first:
+      213: 1866873407187906208
+    second: Skeleton_Swordman2_6
+  - first:
+      213: 697393726728052188
+    second: Skeleton_Swordman2_7
+  - first:
+      213: -8372335287367452012
+    second: Skeleton_Swordman2_8
+  - first:
+      213: 8916571274644529733
+    second: Skeleton_Swordman2_9
+  - first:
+      213: -4369524176504525168
+    second: Skeleton_Swordman2_10
+  - first:
+      213: -3845955071031005153
+    second: Skeleton_Swordman2_11
+  - first:
+      213: -6590532073838110992
+    second: Skeleton_Swordman2_12
+  - first:
+      213: -5156940034814950618
+    second: Skeleton_Swordman2_13
+  - first:
+      213: -9121344552195482648
+    second: Skeleton_Swordman2_14
+  - first:
+      213: -9146620105263552158
+    second: Skeleton_Swordman2_15
+  - first:
+      213: -4633244552450928309
+    second: Skeleton_Swordman2_16
+  - first:
+      213: 383876396840615604
+    second: Skeleton_Swordman2_17
+  - first:
+      213: -596813833246966153
+    second: Skeleton_Swordman2_18
+  - first:
+      213: -2995209091499573402
+    second: Skeleton_Swordman2_19
+  - first:
+      213: 8618611040822273684
+    second: Skeleton_Swordman2_20
+  - first:
+      213: -8751109843297685849
+    second: Skeleton_Swordman2_21
+  - first:
+      213: 4565887363101828769
+    second: Skeleton_Swordman2_22
+  - first:
+      213: -2882422149612362702
+    second: Skeleton_Swordman2_23
+  - first:
+      213: 7180503913109391244
+    second: Skeleton_Swordman2_24
+  - first:
+      213: -2525519583013054072
+    second: Skeleton_Swordman2_25
+  - first:
+      213: 1195945062941875426
+    second: Skeleton_Swordman2_26
+  - first:
+      213: 2125107279477166635
+    second: Skeleton_Swordman2_27
+  - first:
+      213: -2345362385917126903
+    second: Skeleton_Swordman2_28
+  - first:
+      213: 480629636336443317
+    second: Skeleton_Swordman2_29
+  - first:
+      213: -5788614736156244073
+    second: Skeleton_Swordman2_30
+  - first:
+      213: -2945232889749648992
+    second: Skeleton_Swordman2_31
+  - first:
+      213: -1965522494412043849
+    second: Skeleton_Swordman2_32
+  - first:
+      213: 7655743325663781290
+    second: Skeleton_Swordman2_33
+  - first:
+      213: 1297136132743627534
+    second: Skeleton_Swordman2_34
+  - first:
+      213: -6058251945708099311
+    second: Skeleton_Swordman2_35
+  - first:
+      213: -1256739609932728576
+    second: Skeleton_Swordman2_36
+  - first:
+      213: 4160610439628004097
+    second: Skeleton_Swordman2_37
+  - first:
+      213: -4909929717411223720
+    second: Skeleton_Swordman2_38
+  - first:
+      213: 4226269238517430549
+    second: Skeleton_Swordman2_39
+  - first:
+      213: -1175235144898278611
+    second: Skeleton_Swordman2_40
+  - first:
+      213: 3282221125353739200
+    second: Skeleton_Swordman2_41
+  - first:
+      213: 6363211281218809670
+    second: Skeleton_Swordman2_42
+  - first:
+      213: -7150157810481243785
+    second: Skeleton_Swordman2_43
+  - first:
+      213: -1887517187127286692
+    second: Skeleton_Swordman2_44
+  - first:
+      213: -7683293609138702971
+    second: Skeleton_Swordman2_45
+  - first:
+      213: -5232974091073344397
+    second: Skeleton_Swordman2_46
+  - first:
+      213: -3025402834573346202
+    second: Skeleton_Swordman2_47
+  - first:
+      213: -5541924335194697228
+    second: Skeleton_Swordman2_48
+  - first:
+      213: 4601064659679478473
+    second: Skeleton_Swordman2_49
+  - first:
+      213: -9073074662355195919
+    second: Skeleton_Swordman2_50
+  - first:
+      213: -4815525883501815163
+    second: Skeleton_Swordman2_51
+  - first:
+      213: -7490569149159393704
+    second: Skeleton_Swordman2_52
+  - first:
+      213: -8014869975112003116
+    second: Skeleton_Swordman2_53
+  - first:
+      213: 6969111561569324106
+    second: Skeleton_Swordman2_54
+  - first:
+      213: -1527440583280075487
+    second: Skeleton_Swordman2_55
+  - first:
+      213: 7847989729615157435
+    second: Skeleton_Swordman2_56
+  - first:
+      213: -4527147598481008274
+    second: Skeleton_Swordman2_57
+  - first:
+      213: 5229358388275714558
+    second: Skeleton_Swordman2_58
+  - first:
+      213: -5612471250698884501
+    second: Skeleton_Swordman2_59
+  - first:
+      213: 7891385339947066981
+    second: Skeleton_Swordman2_60
+  - first:
+      213: -7886092803004975384
+    second: Skeleton_Swordman2_61
+  - first:
+      213: 6538983826764683142
+    second: Skeleton_Swordman2_62
+  - first:
+      213: 8460470209570506225
+    second: Skeleton_Swordman2_63
+  - first:
+      213: -924237924344243133
+    second: Skeleton_Swordman2_64
+  - first:
+      213: -3750363616905298697
+    second: Skeleton_Swordman2_65
+  - first:
+      213: -7530681452879166059
+    second: Skeleton_Swordman2_66
+  - first:
+      213: -1603301381232576083
+    second: Skeleton_Swordman2_67
+  - first:
+      213: 4916720616071713542
+    second: Skeleton_Swordman2_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 486
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237c704d207ff0440800000000000000
+      internalID: 4904410110749034290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 486
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb379fa9f74099bc0800000000000000
+      internalID: -3775981866466053185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 486
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc7209e1f5527640800000000000000
+      internalID: 5076214227484703960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 486
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed59df1c0fad5120800000000000000
+      internalID: 2404270242694520303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 486
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64310deb2d1a04af0800000000000000
+      internalID: -414153239201574074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 486
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936c151dd05f16760800000000000000
+      internalID: 7449504698342688313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 454
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aeee04097778e910800000000000000
+      internalID: 1866873407187906208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 454
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd163646e3ada900800000000000000
+      internalID: 697393726728052188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 454
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49abef72a6d7fcb80800000000000000
+      internalID: -8372335287367452012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 454
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542a3af05560ebb70800000000000000
+      internalID: 8916571274644529733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_10
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 454
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e67f589e45c53c0800000000000000
+      internalID: -4369524176504525168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 454
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10b5195d3c60aac0800000000000000
+      internalID: -3845955071031005153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 422
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f69f0a3ff9b984a0800000000000000
+      internalID: -6590532073838110992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 422
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6234dd86c5ede68b0800000000000000
+      internalID: -5156940034814950618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 422
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb917ce4797a6180800000000000000
+      internalID: -9121344552195482648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 422
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269e152a97da01180800000000000000
+      internalID: -9146620105263552158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 422
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4116a5a0a863bfb0800000000000000
+      internalID: -4633244552450928309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_17
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 422
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be775f8c8dc35500800000000000000
+      internalID: 383876396840615604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 390
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e76401bf0b7b7f0800000000000000
+      internalID: -596813833246966153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 390
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fb5295331ee66d0800000000000000
+      internalID: -2995209091499573402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 390
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496a87904157b9770800000000000000
+      internalID: 8618611040822273684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 390
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae21df76ffcd8680800000000000000
+      internalID: -8751109843297685849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_22
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 390
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6212a9d5a4d5f30800000000000000
+      internalID: 4565887363101828769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 390
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23423af93549ff7d0800000000000000
+      internalID: -2882422149612362702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 358
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c870039d34646a360800000000000000
+      internalID: 7180503913109391244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_25
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 358
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889d63de15d83fcd0800000000000000
+      internalID: -2525519583013054072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 358
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec5887c2b9d89010800000000000000
+      internalID: 1195945062941875426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 358
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2255d6bfc5ed7d10800000000000000
+      internalID: 2125107279477166635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 358
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907d8d51659937fd0800000000000000
+      internalID: -2345362385917126903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_29
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 358
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfdb569b1a8ba600800000000000000
+      internalID: 480629636336443317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_30
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 326
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797c0dd1195baafa0800000000000000
+      internalID: -5788614736156244073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_31
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 326
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9cca19a4e6027d0800000000000000
+      internalID: -2945232889749648992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_32
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 326
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9c78284bf09b4e0800000000000000
+      internalID: -1965522494412043849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_33
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 326
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1e1c92ef9ae3a60800000000000000
+      internalID: 7655743325663781290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_34
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 326
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e030281b07a500210800000000000000
+      internalID: 1297136132743627534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_35
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 326
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119ef3014f3cceba0800000000000000
+      internalID: -6058251945708099311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_36
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 294
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007fbc6bbf92f8ee0800000000000000
+      internalID: -1256739609932728576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_37
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 294
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b1fc6a6257db930800000000000000
+      internalID: 4160610439628004097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 303
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857e1999fec6cdbb0800000000000000
+      internalID: -4909929717411223720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 294
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519fdfe0b79b6aa30800000000000000
+      internalID: 4226269238517430549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_40
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 305
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b88c4ccd9b0bfe0800000000000000
+      internalID: -1175235144898278611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_41
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 294
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c31efa39bacc8d20800000000000000
+      internalID: 3282221125353739200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_42
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 246
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f2ecf42faae4850800000000000000
+      internalID: 6363211281218809670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_43
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 239
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779d742ca5985cc90800000000000000
+      internalID: -7150157810481243785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_44
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 246
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5465d96e113ec5e0800000000000000
+      internalID: -1887517187127286692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_45
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 236
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585324a9b257f5590800000000000000
+      internalID: -7683293609138702971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 246
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c20c62acdb067b0800000000000000
+      internalID: -5232974091073344397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_47
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 182
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66abbc6b62c9306d0800000000000000
+      internalID: -3025402834573346202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_48
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 182
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f190a4fd212713b0800000000000000
+      internalID: -5541924335194697228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 178
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c28cc43ee34adf30800000000000000
+      internalID: 4601064659679478473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_50
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 175
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7a8b17aa6f51280800000000000000
+      internalID: -9073074662355195919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_51
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 182
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58adc2309b0db2db0800000000000000
+      internalID: -4815525883501815163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 118
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856badaab072c0890800000000000000
+      internalID: -7490569149159393704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_53
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 114
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d15184e83675c090800000000000000
+      internalID: -8014869975112003116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_54
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 125
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c48639a0247b060800000000000000
+      internalID: 6969111561569324106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_55
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 117
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d531ad1e07dcae0800000000000000
+      internalID: -1527440583280075487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 116
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb810a22419a9ec60800000000000000
+      internalID: 7847989729615157435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_57
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 70
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69d6cabe375c21c0800000000000000
+      internalID: -4527147598481008274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_58
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 70
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef912607fb9629840800000000000000
+      internalID: 5229358388275714558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_59
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 70
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a2006322f7c12b0800000000000000
+      internalID: -5612471250698884501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_60
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 70
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56625450825d38d60800000000000000
+      internalID: 7891385339947066981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_61
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 38
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6bf13c068fe8290800000000000000
+      internalID: -7886092803004975384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_62
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 38
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687555a35232fba50800000000000000
+      internalID: 6538983826764683142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_63
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 38
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5893284d0a96570800000000000000
+      internalID: 8460470209570506225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_64
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 38
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c548f21827c23f0800000000000000
+      internalID: -924237924344243133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_65
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 6
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc7fc3292804fbc0800000000000000
+      internalID: -3750363616905298697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_66
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 6
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595c38c2e15ad7790800000000000000
+      internalID: -7530681452879166059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_67
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 6
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da93dbf63edefb9e0800000000000000
+      internalID: -1603301381232576083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Swordman2_68
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 6
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6035bc4b953bb3440800000000000000
+      internalID: 4916720616071713542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skeleton_Swordman2_0: 4904410110749034290
+      Skeleton_Swordman2_1: -3775981866466053185
+      Skeleton_Swordman2_10: -4369524176504525168
+      Skeleton_Swordman2_11: -3845955071031005153
+      Skeleton_Swordman2_12: -6590532073838110992
+      Skeleton_Swordman2_13: -5156940034814950618
+      Skeleton_Swordman2_14: -9121344552195482648
+      Skeleton_Swordman2_15: -9146620105263552158
+      Skeleton_Swordman2_16: -4633244552450928309
+      Skeleton_Swordman2_17: 383876396840615604
+      Skeleton_Swordman2_18: -596813833246966153
+      Skeleton_Swordman2_19: -2995209091499573402
+      Skeleton_Swordman2_2: 5076214227484703960
+      Skeleton_Swordman2_20: 8618611040822273684
+      Skeleton_Swordman2_21: -8751109843297685849
+      Skeleton_Swordman2_22: 4565887363101828769
+      Skeleton_Swordman2_23: -2882422149612362702
+      Skeleton_Swordman2_24: 7180503913109391244
+      Skeleton_Swordman2_25: -2525519583013054072
+      Skeleton_Swordman2_26: 1195945062941875426
+      Skeleton_Swordman2_27: 2125107279477166635
+      Skeleton_Swordman2_28: -2345362385917126903
+      Skeleton_Swordman2_29: 480629636336443317
+      Skeleton_Swordman2_3: 2404270242694520303
+      Skeleton_Swordman2_30: -5788614736156244073
+      Skeleton_Swordman2_31: -2945232889749648992
+      Skeleton_Swordman2_32: -1965522494412043849
+      Skeleton_Swordman2_33: 7655743325663781290
+      Skeleton_Swordman2_34: 1297136132743627534
+      Skeleton_Swordman2_35: -6058251945708099311
+      Skeleton_Swordman2_36: -1256739609932728576
+      Skeleton_Swordman2_37: 4160610439628004097
+      Skeleton_Swordman2_38: -4909929717411223720
+      Skeleton_Swordman2_39: 4226269238517430549
+      Skeleton_Swordman2_4: -414153239201574074
+      Skeleton_Swordman2_40: -1175235144898278611
+      Skeleton_Swordman2_41: 3282221125353739200
+      Skeleton_Swordman2_42: 6363211281218809670
+      Skeleton_Swordman2_43: -7150157810481243785
+      Skeleton_Swordman2_44: -1887517187127286692
+      Skeleton_Swordman2_45: -7683293609138702971
+      Skeleton_Swordman2_46: -5232974091073344397
+      Skeleton_Swordman2_47: -3025402834573346202
+      Skeleton_Swordman2_48: -5541924335194697228
+      Skeleton_Swordman2_49: 4601064659679478473
+      Skeleton_Swordman2_5: 7449504698342688313
+      Skeleton_Swordman2_50: -9073074662355195919
+      Skeleton_Swordman2_51: -4815525883501815163
+      Skeleton_Swordman2_52: -7490569149159393704
+      Skeleton_Swordman2_53: -8014869975112003116
+      Skeleton_Swordman2_54: 6969111561569324106
+      Skeleton_Swordman2_55: -1527440583280075487
+      Skeleton_Swordman2_56: 7847989729615157435
+      Skeleton_Swordman2_57: -4527147598481008274
+      Skeleton_Swordman2_58: 5229358388275714558
+      Skeleton_Swordman2_59: -5612471250698884501
+      Skeleton_Swordman2_6: 1866873407187906208
+      Skeleton_Swordman2_60: 7891385339947066981
+      Skeleton_Swordman2_61: -7886092803004975384
+      Skeleton_Swordman2_62: 6538983826764683142
+      Skeleton_Swordman2_63: 8460470209570506225
+      Skeleton_Swordman2_64: -924237924344243133
+      Skeleton_Swordman2_65: -3750363616905298697
+      Skeleton_Swordman2_66: -7530681452879166059
+      Skeleton_Swordman2_67: -1603301381232576083
+      Skeleton_Swordman2_68: 4916720616071713542
+      Skeleton_Swordman2_7: 697393726728052188
+      Skeleton_Swordman2_8: -8372335287367452012
+      Skeleton_Swordman2_9: 8916571274644529733
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Assembly-CSharp</name>
+    </assembly>
+    <members>
+        <member name="T:SceneTransition">
+            <summary>
+            Controla la transición entre escenas cuando el jugador entra en un área específica.
+            </summary>
+        </member>
+        <member name="F:SceneTransition.nombreEscenaDestino">
+            <summary>
+            Nombre de la escena a la que se debe cambiar.
+            </summary>
+        </member>
+        <member name="F:SceneTransition.posicionSpawn">
+            <summary>
+            Posición en la que el jugador aparecerá en la nueva escena.
+            </summary>
+        </member>
+        <member name="M:SceneTransition.OnTriggerEnter2D(UnityEngine.Collider2D)">
+            <summary>
+            Detecta la entrada del jugador en el área de transición y cambia de escena,
+            guardando la posición de aparición del jugador.
+            </summary>
+            <param name="other">El collider del objeto que entra en el trigger.</param>
+            <remarks>
+            Este método utiliza PlayerPrefs para guardar la posición de aparición
+            y luego llama a SceneManager.LoadScene para cargar la nueva escena.
+            </remarks>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu_Inicial.unity
+    guid: f235f9ef56a5ea248ae37627aaa9381e
+  - enabled: 1
+    path: Assets/Scenes/Intro_Historia.unity
+    guid: 81964e4329c503d478797d6bf440a5fd
+  - enabled: 1
+    path: Assets/Scenes/Villa1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Villa2.unity
+    guid: 213f24a093d08c6488d3c35e67358cc7
+  - enabled: 1
+    path: Assets/Scenes/Cueva1.unity
+    guid: 62c870c525d12b6408c5231f83320998
+  - enabled: 1
+    path: Assets/Scenes/Cueva2.unity
+    guid: 4daa3f5ccfe57874dbad0d0b7ab00b30
+  - enabled: 1
+    path: Assets/Scenes/Laberinto1.unity
+    guid: c1b93b8efe7d8fb4b8f269d9f8aea1ba
+  - enabled: 1
+    path: Assets/Scenes/Laberinto2.unity
+    guid: e067a0663248df5428dbc6576599b07a
+  - enabled: 1
+    path: Assets/Scenes/Escenario_batalla.unity
+    guid: afc9c31a4b83ad14ca68c1a8b394b1c4
+  - enabled: 1
+    path: Assets/Scenes/EscenaFelicitacion.unity
+    guid: a3074a0668e16b14c8c18d6ff201813e
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
+  m_UseUCBPForAssetBundles: 0

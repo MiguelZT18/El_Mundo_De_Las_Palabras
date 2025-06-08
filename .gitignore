@@ -1,0 +1,35 @@
+# Archivos temporales y de sistema
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# Archivos generados por Visual Studio
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Archivos generados por JetBrains Rider
+.idea/
+
+# Archivo de Unity Cache Server
+/Library/ArtifactCache/
+
+# Archivos generados por paquetes
+/Packages/com.unity.*.cache
+
+# Otros archivos temporales y ocultos
+.DS_Store
+*.apk
+*.aab
+*.log
