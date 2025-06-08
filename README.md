@@ -20,6 +20,7 @@
 ---
 
 ## Introducción
+![Vista previa del juego](https://github.com/MiguelZT18/El_Mundo_De_Las_Palabras/blob/e65827011d5af0b81d00ee673ccc9527220bbf95/Assets/Images/El%20mundo%20de%20las%20palabras.jpeg)  
 
 ### Objetivo del manual  
 Este manual tiene como finalidad guiar al usuario en la instalación, uso y resolución de problemas del videojuego RPG "El mundo de las palabras".
