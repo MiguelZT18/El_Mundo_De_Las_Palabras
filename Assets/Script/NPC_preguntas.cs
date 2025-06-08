@@ -11,7 +11,7 @@ using TMPro;
 public class NPCPreguntas : MonoBehaviour
 {
     /// <summary>
-    /// Representa una pregunta con su texto, opciones y la respuesta correcta.
+    /// Representa una pregunta con su texto, opciones, respuesta correcta y textos de retroalimentación.
     /// </summary>
     [System.Serializable]
     public class Pregunta
@@ -19,6 +19,12 @@ public class NPCPreguntas : MonoBehaviour
         public string textoPregunta;
         public List<string> opciones;
         public int respuestaCorrecta;
+
+        [Tooltip("Texto que se muestra cuando la respuesta es correcta")]
+        public string retroalimentacionCorrecta = "¡Correcto!";
+
+        [Tooltip("Texto que se muestra cuando la respuesta es incorrecta")]
+        public string retroalimentacionIncorrecta = "Incorrecto.";
     }
 
     [Header("Identificación del NPC")]
@@ -123,12 +129,12 @@ public class NPCPreguntas : MonoBehaviour
 
         if (index == p.respuestaCorrecta)
         {
-            textoRetroalimentacion.text = "¡Correcto!";
+            textoRetroalimentacion.text = p.retroalimentacionCorrecta;
             GameManager.Instance?.SumarPuntos(100);
         }
         else
         {
-            textoRetroalimentacion.text = "Incorrecto.";
+            textoRetroalimentacion.text = p.retroalimentacionIncorrecta;
         }
 
         indicePreguntaActual++;
