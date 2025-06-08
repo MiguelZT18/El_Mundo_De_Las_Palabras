@@ -1,0 +1,3 @@
+# Ignorar carpetas de compilación de C#
+bin\
+obj\
